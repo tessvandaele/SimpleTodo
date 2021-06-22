@@ -28,12 +28,12 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-I had minor issues in Android studio set up. Specifically, handling which version of the Android SDK to use. 
+I had minor issues with Android studio set up. Specifically, handling which version of the Android SDK to use. 
 Additionally, I had a minor issue importing the correct library to support the FileUtils readLines and writeLines methods.
 
 ## License
 
-    Copyright [2021] [name of copyright owner]
+    Copyright [2021] [Tess Van Daele]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
