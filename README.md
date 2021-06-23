@@ -4,7 +4,7 @@
 
 Submitted by: **Tess Van Daele**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='SimpleTodoDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with LiceCAP.
+GIF created with [LiceCAP](https://www.cockos.com/licecap/).
 
 ## Notes
 
